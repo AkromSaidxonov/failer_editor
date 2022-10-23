@@ -35,8 +35,6 @@ function Add() {
     navigate("/");
     dispatch(addText(data));
   };
-   
-
 
   return (
     <>
